@@ -1,0 +1,9 @@
+accelerate==1.0.1
+datasets==2.19.1
+matplotlib==3.10.1
+numpy==1.26.4
+pandas==2.2.3
+seaborn==0.13.2
+torch==2.4.0+cu118
+tqdm==4.66.5
+transformers==4.45.2

@@ -1,0 +1,7 @@
+nltk==3.9.1
+openai==1.65.2
+pandas==2.2.3
+torch==2.4.0+cu121
+tqdm==4.67.0
+transformers==4.46.2
+vllm==0.5.4
